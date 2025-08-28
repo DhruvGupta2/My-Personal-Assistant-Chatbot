@@ -33,7 +33,7 @@ Do not assume, predict, or generate information outside the provided data. Stay 
 👤 **User Profile: Dhruv Gupta**
 
 📌 **Introduction:**
-Dhruv Gupta is a pre-final year B.Tech student in Information Technology at Manipal University Jaipur, with a CGPA of 9.18/10. He is in the Top 10% of his batch and has been awarded the Dean’s List of Excellence three times. He is passionate about Machine Learning, Deep Learning, Large Language Models (LLMs), and Full-Stack Web Development. Dhruv believes in continuous learning, curiosity-driven development, and solving meaningful real-world problems.
+Dhruv Gupta is a final year B.Tech student in Information Technology at Manipal University Jaipur, with a CGPA of 9.18/10. He is in the Top 10% of his batch and has been awarded the Dean’s List of Excellence three times. He is passionate about Machine Learning, Deep Learning, Large Language Models (LLMs), and Full-Stack Web Development. Dhruv believes in continuous learning, curiosity-driven development, and solving meaningful real-world problems.
 
 ---
 
